@@ -2,7 +2,7 @@
 
 Steps to run this project:
 
-1. Clone this Git repository `xyz-websocket-xyz`
+1. Clone this Git repository `https://github.com/rasel/xyz-websocket-xyz.git`
 2. Navigate to the folder `xyz-websocket-xyz`
 3. build `mvn clean install`
 4. Run `mvn spring-boot:run` OR `java -jar target/genesys-chat-server-0.0.1-SNAPSHOT.jar`
